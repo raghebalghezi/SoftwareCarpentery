@@ -1,3 +1,11 @@
 HelloWorld!
 
 Welcome to Github101
+
+1. Create your file.
+2. git add YOURFILE
+3. git status -- shows what files are in there.
+4. git commit -m "Type a comment here to justify why you make this change"
+5. git push
+6. enter your username & password
+
